@@ -7,3 +7,4 @@ It will be deployed on **AWS EC2** and enhanced with **AI integration** to impro
 - **Matthew Macri** *(Team Leader)*
 - Mahima Roy Karmakar
 - Cristian Racila
+- Alexander Nguyen
