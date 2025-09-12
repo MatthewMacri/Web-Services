@@ -59,7 +59,7 @@ erDiagram
     string category_hint
   }
 
-  PARKINGLOTS {
+  PARKING_LOTS {
     int parking_id PK
     string name
     int location_id FK
@@ -175,3 +175,4 @@ erDiagram
   USERS ||--o{ REVIEWS : writes
   AMENITIES ||--o{ ENTITYAMENITIES : provides
 ```
+
